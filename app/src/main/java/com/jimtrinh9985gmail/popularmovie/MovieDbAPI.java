@@ -11,7 +11,7 @@ import com.loopj.android.http.RequestParams;
  */
 public class MovieDbAPI extends Activity {
 
-    private final String API_KEY = "111111111111111111111";
+    private final String API_KEY = "Insert your Key Here";
     private final String API_BASE_URL = "http://api.themoviedb.org/3";
     private AsyncHttpClient client;
     private String movieKey = DetailViewFragment.movieID;
