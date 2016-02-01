@@ -1,18 +1,18 @@
 # PopularMovie
-Stage 1:
-Upon launch, present the user with an grid arrangement of movie posters.
-Allow your user to change sort order via a setting.
-Allow the user to tap on a movie poster and transition to a details screen with additional information such as:
-Movie Title,
-Movie Poster Thumbnail,
-Synopsis,
-User Rating,
-Release Date.
+**Stage 1:**
+* Upon launch, present the user with an grid arrangement of movie posters
+* Allow your user to change sort order via a setting
+* Allow the user to tap on a movie poster and transition to a details screen with additional information such as:
+    * Movie Title
+    * Movie Poster Thumbnail
+    * Synopsis
+    * User Rating
+    * Release Date
 
-Stage 2:
-Allow users to play trailers and read reviews.
-Allow users to mark movie as favorite and localize movie to personal collection.
-Optimize app experience for tablet.
+**Stage 2:**
+* Allow users to play trailers and read reviews
+* Allow users to mark movie as favorite and localize movie to personal collection
+* Optimize app experience for tablet
 
 Single Pane:
 
