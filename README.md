@@ -14,6 +14,11 @@
 * Allow users to mark movie as favorite and localize movie to personal collection
 * Optimize app experience for tablet
 
+**How to Install**
+* Download zip file and "Import Project" in Android Studio
+* Register for Developer Key at www.themoviedb.org
+* Copy key in MovieDbAPI.java - String API_KEY = "Insert your Key Here";
+
 Single Pane:
 
 ![singlepanemainview](https://cloud.githubusercontent.com/assets/12095070/12086904/07a84674-b283-11e5-8f7e-3360fbafba99.png)
